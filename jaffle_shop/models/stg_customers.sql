@@ -3,4 +3,4 @@ select
     first_name,
     last_name
 
-from jaffle_shopp.raw_customers
+from jaffle_shop.raw_customers
