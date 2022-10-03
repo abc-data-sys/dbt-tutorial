@@ -13,3 +13,6 @@ Try running the following commands:
 - Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
+### BPI
+Here I'm following the approach described in the [Getting started with dbt Core](https://docs.getdbt.com/guides/getting-started/learning-more/getting-started-dbt-core) guide.
