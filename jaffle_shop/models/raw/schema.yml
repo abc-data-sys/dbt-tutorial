@@ -1,0 +1,15 @@
+version: 2
+
+# Configuring sources
+# Full documentation: https://docs.getdbt.com/docs/building-a-dbt-project/using-sources
+#
+# https://docs.getdbt.com/reference/resource-configs/bigquery-configs
+# BigQuery configurations - Use project and dataset in configurations
+# schema is interchangeable with the BigQuery concept dataset
+# database is interchangeable with the BigQuery concept of project
+sources:
+  - name: raw
+    schema: jaffle_shop_raw
+    tables:
+      - name: raw_orders
+      - name: raw_customers
